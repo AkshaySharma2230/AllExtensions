@@ -17,6 +17,7 @@
 		D00CD0DE29F2CF5F0060D235 /* ExtentionsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D00CD0DD29F2CF5F0060D235 /* ExtentionsUITests.swift */; };
 		D00CD0E029F2CF5F0060D235 /* ExtentionsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D00CD0DF29F2CF5F0060D235 /* ExtentionsUITestsLaunchTests.swift */; };
 		D00CD0ED29F2CFFF0060D235 /* ToastMessage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D00CD0EC29F2CFFF0060D235 /* ToastMessage.swift */; };
+		D01CC9F629F420C400C20E15 /* AddDashBoard+UIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D01CC9F529F420C400C20E15 /* AddDashBoard+UIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		D00CD0DD29F2CF5F0060D235 /* ExtentionsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtentionsUITests.swift; sourceTree = "<group>"; };
 		D00CD0DF29F2CF5F0060D235 /* ExtentionsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtentionsUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		D00CD0EC29F2CFFF0060D235 /* ToastMessage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToastMessage.swift; sourceTree = "<group>"; };
+		D01CC9F529F420C400C20E15 /* AddDashBoard+UIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AddDashBoard+UIView.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -134,6 +136,7 @@
 			isa = PBXGroup;
 			children = (
 				D00CD0EC29F2CFFF0060D235 /* ToastMessage.swift */,
+				D01CC9F529F420C400C20E15 /* AddDashBoard+UIView.swift */,
 			);
 			path = ToastMessage;
 			sourceTree = "<group>";
@@ -273,6 +276,7 @@
 				D00CD0ED29F2CFFF0060D235 /* ToastMessage.swift in Sources */,
 				D00CD0BD29F2CF5E0060D235 /* AppDelegate.swift in Sources */,
 				D00CD0BF29F2CF5E0060D235 /* SceneDelegate.swift in Sources */,
+				D01CC9F629F420C400C20E15 /* AddDashBoard+UIView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

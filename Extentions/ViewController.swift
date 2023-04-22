@@ -9,9 +9,18 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    //MARK: UIView
+    @IBOutlet weak var dashShadowView: UIView!
+    
+    
     //MARK: ViewDidLoad
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        
+        dashShadowView.addDashedBorder(conerRadius: 20)
+        
+        dashShadowView.layer.cornerRadius = 20
         // Do any additional setup after loading the view.
     }
 
