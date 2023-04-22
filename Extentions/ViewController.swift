@@ -27,7 +27,8 @@ class ViewController: UIViewController {
     
     //MARK: UIButton Tapped Action
     @IBAction func showToastButtonTappedAction(_ sender: UIButton) {
-        Toast.showToast(message: "Here message You want to show", controller: self)
+        alert(message: "Hey I am here...")
+        //Toast.showToast(message: "Here message You want to show", controller: self)
     }
     
 
