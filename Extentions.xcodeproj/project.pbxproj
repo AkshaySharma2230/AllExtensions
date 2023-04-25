@@ -20,6 +20,7 @@
 		D00CD0ED29F2CFFF0060D235 /* ToastMessage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D00CD0EC29F2CFFF0060D235 /* ToastMessage.swift */; };
 		D01CC9F629F420C400C20E15 /* AddDashBoard+UIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D01CC9F529F420C400C20E15 /* AddDashBoard+UIView.swift */; };
 		D01CC9F929F421E900C20E15 /* UIAlertViewController+UIVIew.swift in Sources */ = {isa = PBXBuildFile; fileRef = D01CC9F829F421E900C20E15 /* UIAlertViewController+UIVIew.swift */; };
+		D09D08B529F84AB600ECDE24 /* UILabel+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = D09D08B429F84AB600ECDE24 /* UILabel+Extension.swift */; };
 		D0F56CC329F5AA3600AAC53F /* UI+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0F56CC229F5AA3600AAC53F /* UI+Extensions.swift */; };
 /* End PBXBuildFile section */
 
@@ -58,6 +59,7 @@
 		D00CD0EC29F2CFFF0060D235 /* ToastMessage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToastMessage.swift; sourceTree = "<group>"; };
 		D01CC9F529F420C400C20E15 /* AddDashBoard+UIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AddDashBoard+UIView.swift"; sourceTree = "<group>"; };
 		D01CC9F829F421E900C20E15 /* UIAlertViewController+UIVIew.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIAlertViewController+UIVIew.swift"; sourceTree = "<group>"; };
+		D09D08B429F84AB600ECDE24 /* UILabel+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UILabel+Extension.swift"; sourceTree = "<group>"; };
 		D0F56CC229F5AA3600AAC53F /* UI+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UI+Extensions.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -146,6 +148,7 @@
 				D01CC9F829F421E900C20E15 /* UIAlertViewController+UIVIew.swift */,
 				D0F56CC229F5AA3600AAC53F /* UI+Extensions.swift */,
 				D00C209A29F6E85200CC5EB3 /* UITextFied+Extension.swift */,
+				D09D08B429F84AB600ECDE24 /* UILabel+Extension.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -289,6 +292,7 @@
 				D01CC9F929F421E900C20E15 /* UIAlertViewController+UIVIew.swift in Sources */,
 				D01CC9F629F420C400C20E15 /* AddDashBoard+UIView.swift in Sources */,
 				D0F56CC329F5AA3600AAC53F /* UI+Extensions.swift in Sources */,
+				D09D08B529F84AB600ECDE24 /* UILabel+Extension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
