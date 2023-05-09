@@ -18,6 +18,7 @@
 		D00CD0DE29F2CF5F0060D235 /* ExtentionsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D00CD0DD29F2CF5F0060D235 /* ExtentionsUITests.swift */; };
 		D00CD0E029F2CF5F0060D235 /* ExtentionsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D00CD0DF29F2CF5F0060D235 /* ExtentionsUITestsLaunchTests.swift */; };
 		D00CD0ED29F2CFFF0060D235 /* ToastMessage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D00CD0EC29F2CFFF0060D235 /* ToastMessage.swift */; };
+		D00FB1472A0AB081006BB407 /* SupportingFile in Resources */ = {isa = PBXBuildFile; fileRef = D00FB1462A0AB081006BB407 /* SupportingFile */; };
 		D01CC9F629F420C400C20E15 /* AddDashBoard+UIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D01CC9F529F420C400C20E15 /* AddDashBoard+UIView.swift */; };
 		D01CC9F929F421E900C20E15 /* UIAlertViewController+UIVIew.swift in Sources */ = {isa = PBXBuildFile; fileRef = D01CC9F829F421E900C20E15 /* UIAlertViewController+UIVIew.swift */; };
 		D06149342A02C816005F2192 /* UITableView+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D06149332A02C816005F2192 /* UITableView+Extensions.swift */; };
@@ -58,6 +59,7 @@
 		D00CD0DD29F2CF5F0060D235 /* ExtentionsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtentionsUITests.swift; sourceTree = "<group>"; };
 		D00CD0DF29F2CF5F0060D235 /* ExtentionsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtentionsUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		D00CD0EC29F2CFFF0060D235 /* ToastMessage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToastMessage.swift; sourceTree = "<group>"; };
+		D00FB1462A0AB081006BB407 /* SupportingFile */ = {isa = PBXFileReference; lastKnownFileType = folder; path = SupportingFile; sourceTree = "<group>"; };
 		D01CC9F529F420C400C20E15 /* AddDashBoard+UIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AddDashBoard+UIView.swift"; sourceTree = "<group>"; };
 		D01CC9F829F421E900C20E15 /* UIAlertViewController+UIVIew.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIAlertViewController+UIVIew.swift"; sourceTree = "<group>"; };
 		D06149332A02C816005F2192 /* UITableView+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UITableView+Extensions.swift"; sourceTree = "<group>"; };
@@ -113,6 +115,7 @@
 		D00CD0BB29F2CF5E0060D235 /* Extentions */ = {
 			isa = PBXGroup;
 			children = (
+				D00FB1462A0AB081006BB407 /* SupportingFile */,
 				D01CC9F729F421C000C20E15 /* Extensions */,
 				D00CD0BC29F2CF5E0060D235 /* AppDelegate.swift */,
 				D00CD0BE29F2CF5E0060D235 /* SceneDelegate.swift */,
@@ -261,6 +264,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D00CD0C929F2CF5F0060D235 /* LaunchScreen.storyboard in Resources */,
+				D00FB1472A0AB081006BB407 /* SupportingFile in Resources */,
 				D00CD0C629F2CF5F0060D235 /* Assets.xcassets in Resources */,
 				D00CD0C429F2CF5E0060D235 /* Main.storyboard in Resources */,
 			);
