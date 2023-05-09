@@ -6,8 +6,9 @@
 //
 
 import Foundation
-import AVKit
 import AVFoundation
+import UIKit
+
 
 enum AnimationDirection: String {
     case up
