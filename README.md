@@ -6,5 +6,5 @@ and some missing you can mail me akshay.as597@gmail.com
 
 -> TextField Extension.  
 -> TextField PlaceHolder Color Extension.  
--> TableView Reload With Animation. 
+-> TableView Reload With Animation.   
 -> Adding Pie Chart Classes
