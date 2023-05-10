@@ -47,21 +47,31 @@
                                     <action selector="showToastButtonTappedAction:" destination="BYZ-38-t0r" eventType="touchUpInside" id="7lu-St-7Jn"/>
                                 </connections>
                             </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="SkE-fc-Aia">
+                                <rect key="frame" x="20" y="471" width="353" height="19.333333333333314"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="16"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="o8h-qk-I1i" secondAttribute="trailing" constant="20" id="0bG-kZ-QVa"/>
+                            <constraint firstItem="SkE-fc-Aia" firstAttribute="top" secondItem="sgR-I3-23Y" secondAttribute="bottom" constant="20" id="7Yf-nA-u2S"/>
                             <constraint firstItem="hd8-9J-rlh" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="Gq6-LP-FL7"/>
                             <constraint firstItem="o8h-qk-I1i" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="R77-yI-Zm4"/>
                             <constraint firstItem="sgR-I3-23Y" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="YG5-1Z-Ajw"/>
                             <constraint firstItem="sgR-I3-23Y" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="cQO-qb-GJy"/>
+                            <constraint firstItem="SkE-fc-Aia" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="dK6-1P-Vna"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="SkE-fc-Aia" secondAttribute="trailing" constant="20" id="oBl-KI-Fji"/>
                             <constraint firstItem="hd8-9J-rlh" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="rbk-vV-zeR"/>
                             <constraint firstItem="o8h-qk-I1i" firstAttribute="top" secondItem="hd8-9J-rlh" secondAttribute="bottom" constant="69" id="z3a-gy-7Np"/>
                         </constraints>
                     </view>
                     <connections>
                         <outlet property="dashShadowView" destination="hd8-9J-rlh" id="pcg-z9-SRN"/>
+                        <outlet property="stringLabel" destination="SkE-fc-Aia" id="32Y-2d-9gP"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
