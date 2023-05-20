@@ -8,5 +8,5 @@ and some missing you can mail me akshay.as597@gmail.com
 -> TextField PlaceHolder Color Extension.  
 -> TableView Reload With Animation.   
 -> Adding Pie Chart Classes.   
--> UILabel Extensions. 
+-> UILabel Extensions.   
 -> Load HTML into Label Extension. 
