@@ -9,7 +9,7 @@ and some missing you can mail me akshay.as597@gmail.com.
 -> TableView Reload With Animation.   
 -> Adding Pie Chart Classes.   
 -> UILabel Extensions.   
--> Load HTML into Label Extension. 
+-> Load HTML into Label Extension.   
 -> Array Extension
 
 
