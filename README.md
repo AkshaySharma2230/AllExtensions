@@ -10,7 +10,8 @@ and some missing you can mail me akshay.as597@gmail.com.
 -> Adding Pie Chart Classes.   
 -> UILabel Extensions.   
 -> Load HTML into Label Extension.   
--> Array Extension
+-> Array Extension. 
+-> UIImage Extensions.
 
 
 
