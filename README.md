@@ -11,7 +11,8 @@ and some missing you can mail me akshay.as597@gmail.com.
 -> UILabel Extensions.   
 -> Load HTML into Label Extension.   
 -> Array Extension.   
--> UIImage Extensions.
+-> UIImage Extensions.  
+-> Add Date Extension.
 
 
 
