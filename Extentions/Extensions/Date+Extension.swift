@@ -68,3 +68,12 @@ public enum DateComparisonType {
     case isWeekend
     
 }
+
+// The date components available to be retrieved or modifed
+public enum DateComponentType {
+    case second, minute, hour, day, weekday, nthWeekday, week, month, year
+}
+
+public enum DateForType {
+    case startOfDay, endOfDay, startOfWeek, endOfWeek, startOfMonth, endOfMonth, tomorrow, yesterday, nearestMinute(minute: Int), nearestHour(hour: Int)
+}
