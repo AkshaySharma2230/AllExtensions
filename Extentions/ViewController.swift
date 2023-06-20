@@ -24,6 +24,7 @@ class ViewController: UIViewController {
         dashShadowView.addDashedBorder(conerRadius: 20)
         dashShadowView.layer.cornerRadius = 20
         lblTextColorChange()
+        startAnimation()
         // Do any additional setup after loading the view.
     }
 
@@ -40,6 +41,15 @@ class ViewController: UIViewController {
         stringLabel.attributedText = string
         
     }
+    
+    
+    
+    //MARK: UIView+label+TextFied etc animation
+    func startAnimation() {
+        pAnimation(animationDirection: .left, animateTO: [stringLabel])
+    }
+    
+    
     
     //MARK: UIButton Tapped Action
     @IBAction func showToastButtonTappedAction(_ sender: UIButton) {
