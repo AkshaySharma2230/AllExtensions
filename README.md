@@ -12,7 +12,8 @@ and some missing you can mail me akshay.as597@gmail.com.
 -> Load HTML into Label Extension.   
 -> Array Extension.   
 -> UIImage Extensions.  
--> Add Date Extension.
+-> Add Date Extension.  
+-> Adding pAnimation.(This animation, like your UIView label text field, etc., comes from the left and right sides, top or right side).
 
 
 
