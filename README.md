@@ -14,10 +14,11 @@ and some missing you can mail me at akshay.as597@gmail.com.
 -> UIImage Extensions.  
 -> Add Date Extension.  
 -> Adding pAnimation.(Like your UIView label text field, this animation comes from the left and right sides, top or right side).  
--> Adding Color Extensions and using Extensions to Use:- "."
+-> Adding Color Extensions and using Extensions to Use:- "."    
+"  
 Example:- 
-view.backgroundColor = .ColorName
-
+view.backgroundColor = .ColorName  
+"
 
 
 if you want AnyThing for Swift & Swift UI you Can Connect me on Twitter or mail me
