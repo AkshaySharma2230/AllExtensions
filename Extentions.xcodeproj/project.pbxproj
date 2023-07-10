@@ -23,6 +23,7 @@
 		D01CC9F629F420C400C20E15 /* AddDashBoard+UIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D01CC9F529F420C400C20E15 /* AddDashBoard+UIView.swift */; };
 		D01CC9F929F421E900C20E15 /* UIAlertViewController+UIVIew.swift in Sources */ = {isa = PBXBuildFile; fileRef = D01CC9F829F421E900C20E15 /* UIAlertViewController+UIVIew.swift */; };
 		D027EE382A41EE9E00DE9043 /* UIView+Animation+Exttension.swift in Sources */ = {isa = PBXBuildFile; fileRef = D027EE372A41EE9E00DE9043 /* UIView+Animation+Exttension.swift */; };
+		D05DD9962A5C602100C976E3 /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = D05DD9952A5C602100C976E3 /* Colors.swift */; };
 		D06149342A02C816005F2192 /* UITableView+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D06149332A02C816005F2192 /* UITableView+Extensions.swift */; };
 		D09D08B529F84AB600ECDE24 /* UILabel+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = D09D08B429F84AB600ECDE24 /* UILabel+Extension.swift */; };
 		D0A5C3772A0BEB5500E88D38 /* SetColor+Label.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0A5C3762A0BEB5500E88D38 /* SetColor+Label.swift */; };
@@ -69,6 +70,7 @@
 		D01CC9F529F420C400C20E15 /* AddDashBoard+UIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AddDashBoard+UIView.swift"; sourceTree = "<group>"; };
 		D01CC9F829F421E900C20E15 /* UIAlertViewController+UIVIew.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIAlertViewController+UIVIew.swift"; sourceTree = "<group>"; };
 		D027EE372A41EE9E00DE9043 /* UIView+Animation+Exttension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Animation+Exttension.swift"; sourceTree = "<group>"; };
+		D05DD9952A5C602100C976E3 /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
 		D06149332A02C816005F2192 /* UITableView+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UITableView+Extensions.swift"; sourceTree = "<group>"; };
 		D09D08B429F84AB600ECDE24 /* UILabel+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UILabel+Extension.swift"; sourceTree = "<group>"; };
 		D0A5C3762A0BEB5500E88D38 /* SetColor+Label.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SetColor+Label.swift"; sourceTree = "<group>"; };
@@ -170,6 +172,7 @@
 				D0EFC49D2A238B8900FD0677 /* UIImage+Extension.swift */,
 				D0004AB92A26661400D60EAD /* Date+Extension.swift */,
 				D027EE372A41EE9E00DE9043 /* UIView+Animation+Exttension.swift */,
+				D05DD9952A5C602100C976E3 /* Colors.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -315,6 +318,7 @@
 				D00CD0BD29F2CF5E0060D235 /* AppDelegate.swift in Sources */,
 				D00CD0BF29F2CF5E0060D235 /* SceneDelegate.swift in Sources */,
 				D06149342A02C816005F2192 /* UITableView+Extensions.swift in Sources */,
+				D05DD9962A5C602100C976E3 /* Colors.swift in Sources */,
 				D01CC9F929F421E900C20E15 /* UIAlertViewController+UIVIew.swift in Sources */,
 				D01CC9F629F420C400C20E15 /* AddDashBoard+UIView.swift in Sources */,
 				D0F56CC329F5AA3600AAC53F /* UI+Extensions.swift in Sources */,

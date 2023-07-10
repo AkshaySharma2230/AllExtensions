@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     //MARK: UIView
     @IBOutlet weak var dashShadowView: UIView!
     @IBOutlet weak var stringLabel: UILabel!
+    @IBOutlet var bgView: UIView!
     
 
     //MARK: Define Variable
@@ -25,6 +26,11 @@ class ViewController: UIViewController {
         dashShadowView.layer.cornerRadius = 20
         lblTextColorChange()
         startAnimation()
+        
+        
+        
+        //MARK: Using Color Extensions to color
+        bgView.backgroundColor = .view2
         // Do any additional setup after loading the view.
     }
 
