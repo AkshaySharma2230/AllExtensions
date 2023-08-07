@@ -20,7 +20,8 @@ Example:-
 view.backgroundColor = .ColorName  
 "  
 -> UI+Extnesions  
--> Load Nib Extensions
+-> Load Nib Extensions  
+-> Add Blur View or Remove Blur View.
 
 
 if you want AnyThing for Swift & Swift UI you Can Connect me on Twitter or mail me
